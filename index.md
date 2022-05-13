@@ -14,7 +14,6 @@ meetup-group:
 <li>Thanks To OWASP For Giving This Opportunity</li>
 </ul>
 
-</div>
 
 ## Welcome
 Include some information here about your chapter
