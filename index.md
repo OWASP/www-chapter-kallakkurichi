@@ -8,13 +8,6 @@ meetup-group:
 
 ---
 
- We are just started our chapter and planning for conduct meetings and workshops
-
-<ul>
-<li>Thanks To OWASP For Giving This Opportunity</li>
-</ul>
-
-
 ## Welcome
 We Are Welcomes You All For Our Kallakkurichi Chapter page
 
