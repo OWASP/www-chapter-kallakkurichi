@@ -1,4 +1,4 @@
-### Kallakkurichi Information
+### Kallakurichi Information
 * Provide Group Information
 
 ### Social Links
