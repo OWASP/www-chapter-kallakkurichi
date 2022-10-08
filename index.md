@@ -21,7 +21,9 @@ Everyone is welcome and encouraged to participate in our [Projects](/projects/),
 Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
-* [Meetup](https://zoom.us/j/97471572065?pwd=U1VrOHpUMTJXY1JkQndrRk9pRHpEZz09)
+* [Meetup Link](https://zoom.us/j/97471572065?pwd=U1VrOHpUMTJXY1JkQndrRk9pRHpEZz09)
+![meetings](https://user-images.githubusercontent.com/79393031/194708320-c4b94962-76bf-4f27-bb3e-624b2b8d2487.PNG)
+
 <!-- #<a href=https://meet.google.com/zxg-sfrv-xje>meeting link</a> -->
 
 
