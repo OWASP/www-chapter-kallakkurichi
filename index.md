@@ -22,7 +22,8 @@ Next Meeting/Event <!-- You should keep this section as it will populate your me
 ---------------------
 {% include chapter_events.html group=page.meetup-group %}
 * [Meetup Link](https://zoom.us/j/97471572065?pwd=U1VrOHpUMTJXY1JkQndrRk9pRHpEZz09)
-![meetings](https://user-images.githubusercontent.com/79393031/194708320-c4b94962-76bf-4f27-bb3e-624b2b8d2487.PNG)
+
+![meetings](https://user-images.githubusercontent.com/79393031/194708503-f57eb949-9880-4242-9af5-e44e5bf684ef.PNG)
 
 <!-- #<a href=https://meet.google.com/zxg-sfrv-xje>meeting link</a> -->
 
