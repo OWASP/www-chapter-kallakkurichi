@@ -1,0 +1,23 @@
+leaders:
+  - name: Ajith Kumar Renu
+    email: ajithkumar.renu@owasp.org
+  - name: Aravind Kumar
+    email: aravind.kumar@owasp.org
+    github: Aravind2000-786
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Kallakurichi
+  latitude: 11.79468465
+  longitude: 79.03882106200822
+name: OWASP Kallakurichi
+repositories:
+  - name: www-chapter-kallakkurichi
+    url: https://github.com/OWASP/www-chapter-kallakkurichi
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-kallakkurichi
